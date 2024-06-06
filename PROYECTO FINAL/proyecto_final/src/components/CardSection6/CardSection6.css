@@ -1,0 +1,22 @@
+.card-section6{
+    height: 390px;
+    width: 264px;
+    border: none;
+    background-color: #fefcfb;
+}
+.img-card-section6{
+    width: 264px;
+    height: 264px;
+}
+.container-card-title-section6{
+    padding-top: 25px;
+}
+.card-title-section6{
+    font-size: 20px;
+}
+.card-text-section6{
+    font-size: 16px;
+    padding-top: 3px;
+    color: #999999;
+    font-weight: 500;
+}

@@ -1,0 +1,85 @@
+/*! STYLES SECTION 1 */
+
+.container-section1{
+    padding-top: 20px;
+    padding: var(--padding);
+  }
+  
+  /*! Left section container  */
+  .section1-left{
+    width: 50%;
+    padding-top: 60px;
+  }
+  .title-section1-left{
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 65px;
+  }
+  .title-span-section1{
+    color: var(--primary);
+  }
+  .paragraph-section1-left{
+    font-size: 22px;
+    font-weight: 450;
+    color: var(--textgray);
+    width: 90%;
+    margin: 40px 0 65px 0;
+    line-height: 40px;
+  }
+  
+  .btn-discover-now{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid var(--primary);
+    border-radius: 5px;
+    color: var(--primary);
+    height: 56px;
+    width: 171px;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  /*! Right section container  */
+  .section1-right{
+    width: 50%;
+    padding-left: 40px;
+  }
+  
+  /*! nav floating bottom */
+  
+  .container-floating-nav{
+    width: 100%;
+    margin-top: 65px;
+    padding-bottom: 108px;
+  }
+  .floating-nav{
+    background-color: white;
+    height: 120px;
+    width: 44%;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 30px 2px rgba(0,0,0,0.11);
+  -moz-box-shadow: 0px 0px 30px 2px rgba(0,0,0,0.11);
+  box-shadow: 0px 0px 30px 2px rgba(0,0,0,0.11);
+  }
+  
+  .item-floating-nav{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    padding-right: 140px;
+    font-weight: 500;
+    font-size: 18px;
+  }
+  .container-left-floating-nav{
+    width: 75%;
+    
+  }
+  .container-right-floating-nav{
+    width: 25%;
+  }
+  .elements-floating-nav{
+    list-style: none;
+  }
+  .parraph-floating-gray{
+    color: var(--textgray);
+    font-size: 14px;
+    font-weight: 400;
+  }

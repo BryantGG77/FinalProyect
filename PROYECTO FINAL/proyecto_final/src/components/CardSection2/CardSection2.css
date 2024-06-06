@@ -1,0 +1,28 @@
+.card-section2{
+    height: 269px;
+    width: 359px;
+    padding: 40px;
+    border: none;
+    -webkit-box-shadow: 0px 0px 15px 18px rgba(0,0,0,0.02);
+-moz-box-shadow: 0px 0px 15px 18px rgba(0,0,0,0.02);
+box-shadow: 0px 0px 15px 18px rgba(0,0,0,0.02);
+}
+
+.img-card-section2{
+    width: 44px;
+    height: 48px;
+}
+
+.card-body-section2{
+    padding: 43px 0 0 0;
+}
+.card-title-section2{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.card-text-section2{
+    font-size: 18px;
+    color: var(--textgray);
+    padding-top: 12px;
+}

@@ -1,0 +1,24 @@
+.carousel-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.carousel-item-wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.carousel-item .img-card-section3 {
+  width: 263px;
+
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  top: 50%;
+}

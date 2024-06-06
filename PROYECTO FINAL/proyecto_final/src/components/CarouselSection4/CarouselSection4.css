@@ -1,0 +1,15 @@
+.carousel-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .carousel-item-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .carousel-item .img-card-section4 {
+    width: 357px;
+    
+  }

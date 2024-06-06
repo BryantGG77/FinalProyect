@@ -1,0 +1,17 @@
+.container-section6{
+    width: 100%;
+    height: 940px;
+    padding: var(--padding);
+}
+.container-text-upper-section6{
+    width: 100%;
+    height: 205px;
+}
+.title-section6{
+    font-size: 48px;
+    font-weight: 700;
+    padding-top: 28px;
+}
+.title-span-section6{
+    color: var(--primary);
+}

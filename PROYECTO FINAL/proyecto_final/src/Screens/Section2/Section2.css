@@ -1,0 +1,33 @@
+/*! STYLES SECTION 2 */
+
+.container-section2{
+    width: 100%;
+    height: 685px;
+    background-color: var(--secondary);
+    padding: var(--padding);
+  }
+  .upper-container-section2{
+    width: 100%;
+    height: 43.5%;
+    padding: 90px 0 40px 0;
+  }
+  
+  .title-section2{
+    font-size: 48px;
+    font-weight: 700;
+  }
+  
+  .title-span-section2{
+    color: var(--primary);
+  }
+  
+  .paragraph-section2{
+    font-size: 20px;
+    font-weight: 450;
+    color: var(--textgray);
+    padding: 0 20px;
+  }
+  
+  .container-text-upper{
+    width: 47%;
+  }

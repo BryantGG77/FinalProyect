@@ -1,0 +1,62 @@
+.card-section4 {
+    width: 360px;
+    height: 436px;
+    border-radius: 17px;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+    border: 2px solid #f2f0ef;
+
+}
+
+.card-section4:hover {
+    transform: scale(.92);
+    -webkit-box-shadow: -1px -1px 32px 3px rgba(255, 247, 209, 0.64);
+    -moz-box-shadow: -1px -1px 32px 3px rgba(255, 247, 209, 0.64);
+    box-shadow: -1px -1px 32px 3px rgba(255, 247, 209, 0.64);
+}
+
+.img-card-section4 {
+    height: 320px;
+    width: 359px;
+    border-radius: 17px;
+}
+
+.card-title-section4 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.card-text-section4 {
+    font-size: 16.5px;
+    color: #666666;
+    font-weight: 500;
+}
+
+.container-left-card-title-section4 {
+    width: 75%;
+}
+
+.container-right-card-price-section4 {
+    width: 25%;
+}
+
+.text-price-section4 {
+    font-size: 25px;
+    color: var(--primary);
+    font-weight: 650;
+}
+
+
+.container-info-city-section4 {
+    padding-top: 5px;
+}
+
+.text-info-city-section4 {
+    width: 50%;
+    height: 15px;
+}
+
+.info-city-img-section4 {
+    font-size: 18px;
+    color: var(--primary);
+}

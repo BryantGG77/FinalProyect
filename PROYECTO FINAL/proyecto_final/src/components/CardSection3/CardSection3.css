@@ -1,0 +1,86 @@
+.card-section3 {
+    width: 265px;
+    height: 420px;
+    border-radius: 9px;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+    border: 2px solid #f2f0ef;
+
+}
+
+.card-section3:hover {
+    transform: scale(.95);
+    -webkit-box-shadow: -1px -1px 32px 3px rgba(255, 247, 209, 0.64);
+    -moz-box-shadow: -1px -1px 32px 3px rgba(255, 247, 209, 0.64);
+    box-shadow: -1px -1px 32px 3px rgba(255, 247, 209, 0.64);
+}
+
+.img-card-section3 {
+    height: 284px;
+    width: 263px;
+    border-radius: 7px;
+}
+
+.card-title-section3 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.card-text-section3 {
+    font-size: 18px;
+    color: var(--textgray);
+}
+
+.container-info-city-section3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 5px;
+}
+
+.text-info-city-section3 {
+    width: 50%;
+    height: 15px;
+}
+
+.info-city-img-section3 {
+    font-size: 18px;
+}
+
+.price-line-section3 {
+    text-decoration: line-through;
+    color: #999999;
+    padding-left: 10px;
+    font-weight: 500;
+
+}
+
+.discount-price-section3 {
+    color: var(--primary);
+    font-weight: 500;
+    background-color: #ffe7db;
+}
+
+.container-card-title-section3 {
+    padding-top: 20px;
+}
+
+/* hover */
+
+.hover-card {
+    position: absolute;
+    height: 284px;
+    width: 263px;
+    background: rgba(0, 0, 0, 0);
+    opacity: 0;
+    transition: .3s ease-in-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.hover-card:hover {
+    background: rgba(0, 0, 0, 0.374);
+    opacity: 1;
+}

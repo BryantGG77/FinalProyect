@@ -1,0 +1,36 @@
+/*! STYLES HEADER */
+
+.header {
+  padding: var(--padding);
+}
+
+.elements-nav {
+  list-style: none;
+  width: 45%;
+}
+
+.container-img-logo {
+  width: 27.5%;
+}
+
+.container-btns-header {
+  width: 27.5%;
+}
+
+.item-nav {
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+  padding-right: 25px;
+  font-weight: 500;
+}
+
+
+.container-header {
+  width: 100%;
+  padding: 40px 0 0 0;
+}
+
+.Linked {
+  text-decoration: none;
+}
