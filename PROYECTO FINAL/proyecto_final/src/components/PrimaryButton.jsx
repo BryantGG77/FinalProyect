@@ -1,7 +1,6 @@
 import React from 'react';
 import colors from '../shared/values';
 
-// Definición del componente Button
 const PrimaryButton = ({ onPress, label, alto, ancho }) => {
   return (
     <button onClick={onPress} style={{ ...styles.heading, height: alto, width: ancho }}>

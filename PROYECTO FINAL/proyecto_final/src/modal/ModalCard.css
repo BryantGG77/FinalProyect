@@ -4,7 +4,6 @@
     align-items: center;
     position: fixed;
     z-index: 9999;
-    /* Asegúrate de que este valor sea alto */
     left: 0;
     top: 0;
     width: 100%;
